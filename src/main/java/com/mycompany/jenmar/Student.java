@@ -13,7 +13,7 @@ public class Student {
 
     public static void main(String[] args) {
         for (int k = 0; k < 10; k++) {
-            System.out.println("Mar value " + k);
+            System.out.println("Mar values " + k);
         }
     }
 
